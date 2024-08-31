@@ -41,6 +41,8 @@ After repeating the process 50 times, the models achieved the following accuraci
 - Neural Networks: 81.38%
 - Decision Tree: 77.27%
 
+More details can be found in the project report. 
+
 ## Additional Notes
 
 This project was a part of IT1244.
