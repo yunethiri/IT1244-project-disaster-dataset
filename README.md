@@ -29,7 +29,7 @@ pip install -r requirements.txt
 #### Run the Google Colab Notebook
 
 1. Open disaster.ipynb in Colab
-2. Upload data.csv into /contect directory
+2. Upload data.csv into /content directory
 3. Run disaster.ipynb as normal
 
 ## Results
